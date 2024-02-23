@@ -11,6 +11,7 @@ if (res === -1) {
   )
 } else {
   users.splice(res , 1)
+  alert('Успешно')
 }
 
 
